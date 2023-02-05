@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="JavaWebDeveloper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWebDeveloper_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaWebDeveloper.jar">
+        <element id="module-output" name="JavaWebDeveloper" />
+      </element>
+      <element id="library" level="project" name="mssql-jdbc-12.2.0.jre11" />
+    </root>
+  </artifact>
+</component>
